@@ -1,0 +1,12 @@
+[submodule "External/or-tools"]
+	path = External/or-tools
+	url = git@github.com:google/or-tools.git
+[submodule "External/pytorch"]
+	path = External/pytorch
+	url = git@github.com:pytorch/pytorch.git
+[submodule "External/tensorboard_logger"]
+	path = External/tensorboard_logger
+	url = git@github.com:RustingSword/tensorboard_logger.git
+[submodule "External/saiga"]
+	path = External/saiga
+	url = git@github.com:darglein/saiga.git
