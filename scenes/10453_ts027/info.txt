@@ -1,0 +1,6 @@
+src_to_object 2
+src_to_detector 14.4
+detector_size 2
+volume_size 2 x 2 x 2
+voxel_size 0.00121951 x 0.00121951 x 0.00121951
+output_volume 1640 x 1640 x 1640
