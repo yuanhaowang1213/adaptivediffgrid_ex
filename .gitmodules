@@ -7,3 +7,6 @@
 [submodule "External/tensorboard_logger"]
 	path = External/tensorboard_logger
 	url = git@github.com:RustingSword/tensorboard_logger.git
+[submodule "External/saiga"]
+	path = External/saiga
+	url = git@github.com:darglein/saiga.git
