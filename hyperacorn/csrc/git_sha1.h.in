@@ -1,0 +1,5 @@
+
+
+#pragma once
+
+#define GIT_SHA1 "@MY_GIT_SHA1@"
