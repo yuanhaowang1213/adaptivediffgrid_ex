@@ -11,15 +11,19 @@ The code is initialized from [our previous code](https://github.com/darglein/NeA
 
 
 
-# RUN
+# To Optimize
 
-sh run_test.sh
+cd build
+./bin/hyper_train ../configs/*.ini
+
+replace the * with the file name inside.
+
 
 
 
 # View
 
-run sliceview.sh
+We suggest to use vv or imageJ to view the reconstructed volume.
 
 or view using software like vv
 
